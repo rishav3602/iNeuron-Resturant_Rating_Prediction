@@ -1,6 +1,6 @@
-# Resturant_Rating_Prediction
+# Restaurant_Rating_Prediction
 
-## Resturant Rating Prediction
+## Restaurant Rating Prediction
 
 ## Problem Statement:
 
